@@ -1,7 +1,3 @@
-Perfect 👌 — here’s a **clean, nicely formatted README** version of your *Fitness Club — Spring Boot Application* with emojis, better readability, and markdown styling while keeping everything professional and informative:
-
----
-
 # 🏋️‍♂️ Fitness Club — Spring Boot Application
 
 ## 📖 Project Overview
